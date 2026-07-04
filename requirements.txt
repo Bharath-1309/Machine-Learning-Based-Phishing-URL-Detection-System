@@ -3,4 +3,3 @@ Flask-Cors
 pandas
 scikit-learn
 joblib
-cryptography
