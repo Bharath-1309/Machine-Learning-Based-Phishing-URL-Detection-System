@@ -1,0 +1,7 @@
+url,label
+http://google.com,0
+https://facebook.com,0
+http://192.168.0.1/login,1
+http://malicious-site.com/steal,1
+https://safe-site.org,0
+http://phishingsite.net/verify-account,1
